@@ -47,10 +47,10 @@
      <Compile Include="Assets\Scripts\BallScript.cs" />
      <Compile Include="Assets\Scripts\BrickScript.cs" />
      <Compile Include="Assets\Scripts\LotsaSpawn.cs" />
-     <Compile Include="Assets\Scripts\Player1Script.cs" />
-     <Compile Include="Assets\Scripts\Player2Script.cs" />
+     <Compile Include="Assets\Scripts\PaddleScript.cs" />
      <Compile Include="Assets\Scripts\PowerupScript.cs" />
      <Compile Include="Assets\Scripts\SpawnBricks.cs" />
+     <Compile Include="Assets\Scripts\SpinScript.cs" />
  <Reference Include="Library\ScriptAssemblies\Assembly-UnityScript-firstpass">
  <HintPath>Library\ScriptAssemblies\Assembly-UnityScript-firstpass.dll</HintPath>
  </Reference>
