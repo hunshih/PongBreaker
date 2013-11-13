@@ -11,7 +11,7 @@ public class PaddleScript : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		
-		axisName = rigidbody.position.z < 0 ? "Horizontal" : "Horizontal2";	
+		axisName = rigidbody.position.z < 0 ? "Vertical" : "Vertical2";	
 		
 		Debug.Log("z: " + rigidbody.position.z + " " + axisName);
 	}

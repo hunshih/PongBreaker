@@ -12,7 +12,8 @@ public class SpinScript : MonoBehaviour {
 	void Update () {
 		//transform.R(0, 10, 0);
 		//transform.RotateAround(new Vector3( 0, 0, 0), new Vector3(0, 1, 0), 0.1f);
-		transform.Rotate(Vector3.up * Time.deltaTime * 100f);
+		transform.Rotate(new Vector3(1, 1, 1), Time.deltaTime * 100f);
+		
 		
 	}
 }

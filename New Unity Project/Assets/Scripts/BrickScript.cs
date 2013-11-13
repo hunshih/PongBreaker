@@ -14,7 +14,8 @@ public class BrickScript : MonoBehaviour {
 	}
 	
 	void OnCollisionEnter (Collision col){
-		Destroy( gameObject);
+		if (col.gameObject.name == "Ball")
+			Destroy(gameObject);
 	}
 
 }

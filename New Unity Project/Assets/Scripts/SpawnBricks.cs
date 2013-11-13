@@ -11,7 +11,7 @@ public class SpawnBricks : MonoBehaviour {
 	
 	// Use this for initialization
 	void Start () {
-			
+		/*
 		for (float z = 0; z < 5; z++)
         {
             for (float x = 0; x < 5; x++)
@@ -28,7 +28,7 @@ public class SpawnBricks : MonoBehaviour {
 				num_objects++;
 			}
         }
-	
+	*/
 	}
 	
 	// Update is called once per frame
