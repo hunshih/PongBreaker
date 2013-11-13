@@ -46,6 +46,7 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\BallScript.cs" />
      <Compile Include="Assets\Scripts\BrickScript.cs" />
+     <Compile Include="Assets\Scripts\FollowPaddle.cs" />
      <Compile Include="Assets\Scripts\LotsaSpawn.cs" />
      <Compile Include="Assets\Scripts\PaddleScript.cs" />
      <Compile Include="Assets\Scripts\PowerupScript.cs" />

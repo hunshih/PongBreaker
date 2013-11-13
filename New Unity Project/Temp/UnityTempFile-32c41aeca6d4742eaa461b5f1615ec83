@@ -35,9 +35,11 @@
 -define:UNITY_EDITOR_OSX
 'Assets/Scripts/BallScript.cs'
 'Assets/Scripts/BrickScript.cs'
+'Assets/Scripts/FollowPaddle.cs'
 'Assets/Scripts/LotsaSpawn.cs'
 'Assets/Scripts/PaddleScript.cs'
 'Assets/Scripts/PowerupScript.cs'
 'Assets/Scripts/SpawnBricks.cs'
+'Assets/Scripts/SpinScript.cs'
 -r:'/Applications/Unity/Unity.app/Contents/Frameworks/Mono/lib/mono/unity/System.Runtime.Serialization.dll'
 -r:'/Applications/Unity/Unity.app/Contents/Frameworks/Mono/lib/mono/unity/System.Xml.Linq.dll'

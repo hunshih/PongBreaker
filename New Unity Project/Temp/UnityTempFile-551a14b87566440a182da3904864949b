@@ -33,11 +33,13 @@
 -define:ENABLE_PROFILER
 -define:UNITY_EDITOR
 -define:UNITY_EDITOR_OSX
+'Assets/FollowPaddle.cs'
 'Assets/Scripts/BallScript.cs'
 'Assets/Scripts/BrickScript.cs'
 'Assets/Scripts/LotsaSpawn.cs'
 'Assets/Scripts/PaddleScript.cs'
 'Assets/Scripts/PowerupScript.cs'
 'Assets/Scripts/SpawnBricks.cs'
+'Assets/Scripts/SpinScript.cs'
 -r:'/Applications/Unity/Unity.app/Contents/Frameworks/Mono/lib/mono/unity/System.Runtime.Serialization.dll'
 -r:'/Applications/Unity/Unity.app/Contents/Frameworks/Mono/lib/mono/unity/System.Xml.Linq.dll'
